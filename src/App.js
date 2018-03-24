@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {Header} from './Header';
-import {SimpleTasks} from './SimpleTasks';
+import SimpleTasks from './SimpleTasks';
 
 class App extends Component {
 

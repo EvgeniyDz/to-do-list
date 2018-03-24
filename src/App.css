@@ -111,3 +111,14 @@ p {
     transform: rotate(0deg); }
   to {
     transform: rotate(360deg); } }
+
+.ok-btn {
+  background: #ddd;
+  border: none; }
+
+.ok-li {
+  background: #ddd;
+  text-decoration: line-through; }
+
+.op {
+  opacity: 0.5; }
